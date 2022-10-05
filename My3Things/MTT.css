@@ -1,0 +1,42 @@
+body {
+	color: white;
+	
+	background-image: url(images/bkg.jpg);
+	}
+
+.cntrlcss {
+	max-width: 2000px;
+	padding: 75px;
+	margin: auto;
+	display: block;
+}
+
+header {
+	text-align: center;
+	padding: 5px;
+	background-color: #395B64;
+	font-size: 45px;
+	text-shadow: 3px 3px black;
+	}
+h2{
+	color: gold;
+}	
+
+nav {
+	font-size: 20px;
+	padding: 15px;
+	background-color: #A5C9CA;
+	color: black;
+	border: 2px solid black;
+	font-weight: bold;
+	}
+
+main {
+	text-align: center;
+	background-color: #395B64;
+	font-size: 18px;
+	}
+
+		
+
+
